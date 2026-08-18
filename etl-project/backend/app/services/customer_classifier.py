@@ -62,6 +62,7 @@ AGENCY_ALIASES = {
     "ethiopian public health institute": "EPHI",
     "ahri": "AHRI", "efda": "EFDA",
     "ethiopia blood bank": "Ethiopia Blood Bank",
+    "ethiopian blood bank services": "Ethiopia Blood Bank",
     "ethiopian midwives association": "Ethiopian Midwives Association",
     "ethiopian nurses association": "Ethiopian Nurses Association",
 }
